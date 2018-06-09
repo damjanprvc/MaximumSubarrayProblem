@@ -1,13 +1,13 @@
 package com.company;
 
-public enum Farbe {
+public enum Color {
     r(-1),
     y(1),
     g(2);
 
     private int value;
 
-    Farbe(int v) {
+    Color(int v) {
         this.value = v;
     }
 
