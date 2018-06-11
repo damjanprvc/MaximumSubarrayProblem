@@ -6,6 +6,6 @@ The maximum subarray problem is the task of finding the contiguous subarray with
 
 ### Solution
 
-Class [MaximumSubarrayProblem](MaximumSubarrayProblem/src/com/company/MaximumSubArray.java) shows the classical problem. The input Array may contain positive and negative numbers. 
+Class [MaximumSubarrayProblem](src/com/company/MaximumSubArray.java) shows the classical problem. The input Array may contain positive and negative numbers. 
 
-Class [MaximumSubarrayProblemColor](MaximumSubarrayProblem/src/com/company/MaximumSubArrayColor.java) is a slight variation of this problem. The input Array contains colors. Each color has its own value (positive or negative integer). 
+Class [MaximumSubarrayProblemColor](src/com/company/MaximumSubArrayColor.java) is a slight variation of this problem. The input Array contains colors. Each color has its own value (positive or negative integer). 
